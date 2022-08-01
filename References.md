@@ -8,3 +8,6 @@
 [8]  Moin, A., Sekniqi, K., Sirer, E.G. (2020). SoK: A Classification Framework for Stablecoin Designs. In: Bonneau, J., Heninger, N. (eds) Financial Cryptography and Data Security. FC 2020. Lecture Notes in Computer Science(), vol 12059. Springer, Cham. https://doi.org/10.1007/978-3-030-51280-4_11
 [9]  Terra Money:Stability and Adoption (https://assets.website-files.com/611153e7af981472d8da199c/618b02d13e938ae1f8ad1e45_Terra_White_paper.pdf)
 [10] M. Mita, K. Ito, S. Ohsawa and H. Tanaka, "What is Stablecoin?: A Survey on Price Stabilization Mechanisms for Decentralized Payment Systems," 2019 8th International Congress on Advanced Applied Informatics (IIAI-AAI), 2019, pp. 60-66, doi: 10.1109/IIAI-AAI.2019.00023.
+[11] https://www.gemini.com/cryptopedia/dai-stablecoin-what-is-dai-token#section-how-dai-tokens-work
+[12] https://cryptonews.com/coins/dai/
+[13] https://makerdao.com/whitepaper/Dai-Whitepaper-Dec17-en.pdf
