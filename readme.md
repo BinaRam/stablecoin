@@ -13,7 +13,7 @@
 ## 📄 Abstract
 This research study provides a forensic analysis of the theoretical frameworks underlying Decentralized Finance (DeFi) stablecoins. It specifically investigates the trade-offs between collateralized and algorithmic stabilization models, offering a critical deconstruction of **Seigniorage** (share-style) algorithms and the specific failure modes inherent in "Burn-to-Mint" protocols.
 
-The full analysis is available here: [Stable Coin_v2 (2).docx](https://github.com/BinaRam/stablecoin/blob/main/Stable%20Coin_v2%20(2).docx)
+The full analysis is available here: [Stable Coin_v2.docx](https://github.com/BinaRam/stablecoin/blob/main/Stable%20Coin_v2.docx)
 
 ## 🔍 Key Findings & Analysis
 
